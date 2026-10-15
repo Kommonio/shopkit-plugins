@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "shopkit": {
+      "type": "http",
+      "url": "https://shopkit-connect.vercel.app/mcp/claude"
+    }
+  }
+}

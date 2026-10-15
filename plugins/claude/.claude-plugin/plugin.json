@@ -1,0 +1,13 @@
+{
+  "name": "shopkit",
+  "version": "0.1.1",
+  "description": "Manage your SHOPKIT shop with drafts and owner-reviewed changes.",
+  "author": {
+    "name": "Kommonio",
+    "url": "https://shopkit-connect.vercel.app"
+  },
+  "homepage": "https://shopkit-connect.vercel.app",
+  "repository": "https://github.com/Kommonio/shopkit-plugins",
+  "license": "MIT",
+  "displayName": "SHOPKIT"
+}
